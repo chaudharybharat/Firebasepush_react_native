@@ -78,6 +78,6 @@ Run again this re-link commands from the terminal.
 react-native link react-native-firebase</h5>
 
 
-<img src="https://github.com/chaudharybharat/CircleProgressCutom/blob/master/screen_1.jpg">
-<img src="https://github.com/chaudharybharat/CircleProgressCutom/blob/master/screen_3.jpg">
-<img src="https://github.com/chaudharybharat/CircleProgressCutom/blob/master/screen_2.jpg">
+<img src="https://github.com/chaudharybharat/Firebasepush_react_native/blob/master/screen_1.jpg">
+<img src="https://github.com/chaudharybharat/Firebasepush_react_native/blob/master/screen_3.jpg">
+<img src="https://github.com/chaudharybharat/Firebasepush_react_native/blob/master/screen_2.jpg">
