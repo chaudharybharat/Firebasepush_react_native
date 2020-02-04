@@ -1,0 +1,580 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-push-notification] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:17.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/171f217417c1568fa75f41a3925a2d78/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3738114e14dbeb0b529af9d6dc878de7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/8664460e3dbd857cd851b06f4b9a9ca6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:17:1-29:12
+MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/83e989e120236f40145d4925888b3e32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/harsh/.gradle/caches/transforms-2/files-2.1/794a3a3998f2ac4f245341a9a37eb568/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5755c88d470eec08fcfa2cb16720f713/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e51b979053818ef887f7b0eb60e4cbaf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5b2b534eed0d837a515836a712676a88/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ee1ec1c6bb17e2f84c3bfca3afc6108/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9a44cb1eef48108867758a6edefaeb29/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/efc908bfabb86c8694ecdbb0b8cdbfa3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a2f4ff6fd539592f416079f82328c33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/eb0d5296bbc8717cfd9aefeadd382e3f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36d7d26a17e99c809efc2f09090361f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4588abdd9b8c6bbc3074335adbae785d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1444978d5eefa947572334fb6d8fcd8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4b556af1b48e16e51537fcd2a1a957db/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9cb96f4859e3c1573c8da51adc48d18c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/152fbc32ac694927cb4d15fe4bb9c253/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6cefd6ec77d1e7c252c17772b759ec41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2b711ede0008e2830025f30c4bbe9be3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/961357d7c1eba156d39ceb069eed6f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2502fbe6c3fcbb661b170670b25e91e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1d2dc3260cb974e37080e70955411836/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/df58ac218682ba8f3645ae0bdbcf88f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b7d3f0bc575c30567c0a93b66994146f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ac3c994e112e3e7c107d23d5570baeac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e36592e05be0a3d530d02e729d04b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c4c6b2ea8de3f266154d7295ff93bc96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/47a7bb81895ec2e3bdacd52c94a62cb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c15696c47ef1c3622214b66c5566b57c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/41c5699af099ba7c38d78c36b68e5739/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/00233e78d98307f78576b94eab603646/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7553dcb86a304de8b8c073c7de784655/AndroidManifest.xml:17:1-25:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7253bc5340b754d21433dd6766511741/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b6ef075aac719b0d72c4b4868ab3605/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ee88aefd6827dede7e3eb0faae1210bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36251e654f295d9443adc4e4a78f5c69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/20fbf622fba32ea9138be804b1919d80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/482df00a85099df6e66137e3cb6ea9c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/80e5060fb53cf504ee11a027eedc5af6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef29829c34725a20deb629cb6143d12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/55c6461a7921d18107114e006b3becbd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4190ccff072e5276f871cd345d9991c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6fae8d09a16191e5bcbac6031e1ecc1b/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:17.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/171f217417c1568fa75f41a3925a2d78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/171f217417c1568fa75f41a3925a2d78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3738114e14dbeb0b529af9d6dc878de7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3738114e14dbeb0b529af9d6dc878de7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/8664460e3dbd857cd851b06f4b9a9ca6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/8664460e3dbd857cd851b06f4b9a9ca6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/eb0d5296bbc8717cfd9aefeadd382e3f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/eb0d5296bbc8717cfd9aefeadd382e3f/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36d7d26a17e99c809efc2f09090361f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36d7d26a17e99c809efc2f09090361f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4588abdd9b8c6bbc3074335adbae785d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4588abdd9b8c6bbc3074335adbae785d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1444978d5eefa947572334fb6d8fcd8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1444978d5eefa947572334fb6d8fcd8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4b556af1b48e16e51537fcd2a1a957db/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4b556af1b48e16e51537fcd2a1a957db/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9cb96f4859e3c1573c8da51adc48d18c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9cb96f4859e3c1573c8da51adc48d18c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/152fbc32ac694927cb4d15fe4bb9c253/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/152fbc32ac694927cb4d15fe4bb9c253/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7553dcb86a304de8b8c073c7de784655/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7553dcb86a304de8b8c073c7de784655/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:9:7-38
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:15:9-19:19
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:15:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:16:13-18:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:17:17-78
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:17:25-75
+activity#com.firebasepush.MainActivity
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/171f217417c1568fa75f41a3925a2d78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/171f217417c1568fa75f41a3925a2d78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3738114e14dbeb0b529af9d6dc878de7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3738114e14dbeb0b529af9d6dc878de7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/8664460e3dbd857cd851b06f4b9a9ca6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/8664460e3dbd857cd851b06f4b9a9ca6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/83e989e120236f40145d4925888b3e32/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/83e989e120236f40145d4925888b3e32/AndroidManifest.xml:20:5-43
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/harsh/.gradle/caches/transforms-2/files-2.1/794a3a3998f2ac4f245341a9a37eb568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/harsh/.gradle/caches/transforms-2/files-2.1/794a3a3998f2ac4f245341a9a37eb568/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5755c88d470eec08fcfa2cb16720f713/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5755c88d470eec08fcfa2cb16720f713/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e51b979053818ef887f7b0eb60e4cbaf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e51b979053818ef887f7b0eb60e4cbaf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5b2b534eed0d837a515836a712676a88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5b2b534eed0d837a515836a712676a88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ee1ec1c6bb17e2f84c3bfca3afc6108/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ee1ec1c6bb17e2f84c3bfca3afc6108/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9a44cb1eef48108867758a6edefaeb29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9a44cb1eef48108867758a6edefaeb29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/efc908bfabb86c8694ecdbb0b8cdbfa3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/efc908bfabb86c8694ecdbb0b8cdbfa3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a2f4ff6fd539592f416079f82328c33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a2f4ff6fd539592f416079f82328c33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/eb0d5296bbc8717cfd9aefeadd382e3f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/eb0d5296bbc8717cfd9aefeadd382e3f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36d7d26a17e99c809efc2f09090361f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36d7d26a17e99c809efc2f09090361f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4588abdd9b8c6bbc3074335adbae785d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4588abdd9b8c6bbc3074335adbae785d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1444978d5eefa947572334fb6d8fcd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1444978d5eefa947572334fb6d8fcd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4b556af1b48e16e51537fcd2a1a957db/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4b556af1b48e16e51537fcd2a1a957db/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9cb96f4859e3c1573c8da51adc48d18c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/9cb96f4859e3c1573c8da51adc48d18c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/152fbc32ac694927cb4d15fe4bb9c253/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/152fbc32ac694927cb4d15fe4bb9c253/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6cefd6ec77d1e7c252c17772b759ec41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6cefd6ec77d1e7c252c17772b759ec41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2b711ede0008e2830025f30c4bbe9be3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2b711ede0008e2830025f30c4bbe9be3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/961357d7c1eba156d39ceb069eed6f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/961357d7c1eba156d39ceb069eed6f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2502fbe6c3fcbb661b170670b25e91e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2502fbe6c3fcbb661b170670b25e91e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1d2dc3260cb974e37080e70955411836/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1d2dc3260cb974e37080e70955411836/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/df58ac218682ba8f3645ae0bdbcf88f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/df58ac218682ba8f3645ae0bdbcf88f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b7d3f0bc575c30567c0a93b66994146f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b7d3f0bc575c30567c0a93b66994146f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ac3c994e112e3e7c107d23d5570baeac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ac3c994e112e3e7c107d23d5570baeac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e36592e05be0a3d530d02e729d04b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e36592e05be0a3d530d02e729d04b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c4c6b2ea8de3f266154d7295ff93bc96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c4c6b2ea8de3f266154d7295ff93bc96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/47a7bb81895ec2e3bdacd52c94a62cb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/47a7bb81895ec2e3bdacd52c94a62cb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c15696c47ef1c3622214b66c5566b57c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c15696c47ef1c3622214b66c5566b57c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/41c5699af099ba7c38d78c36b68e5739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/41c5699af099ba7c38d78c36b68e5739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/00233e78d98307f78576b94eab603646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/00233e78d98307f78576b94eab603646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7553dcb86a304de8b8c073c7de784655/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7553dcb86a304de8b8c073c7de784655/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7253bc5340b754d21433dd6766511741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/7253bc5340b754d21433dd6766511741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b6ef075aac719b0d72c4b4868ab3605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b6ef075aac719b0d72c4b4868ab3605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ee88aefd6827dede7e3eb0faae1210bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ee88aefd6827dede7e3eb0faae1210bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36251e654f295d9443adc4e4a78f5c69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/36251e654f295d9443adc4e4a78f5c69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/20fbf622fba32ea9138be804b1919d80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/20fbf622fba32ea9138be804b1919d80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/482df00a85099df6e66137e3cb6ea9c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/482df00a85099df6e66137e3cb6ea9c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/80e5060fb53cf504ee11a027eedc5af6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/80e5060fb53cf504ee11a027eedc5af6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef29829c34725a20deb629cb6143d12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef29829c34725a20deb629cb6143d12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/55c6461a7921d18107114e006b3becbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/55c6461a7921d18107114e006b3becbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4190ccff072e5276f871cd345d9991c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4190ccff072e5276f871cd345d9991c4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6fae8d09a16191e5bcbac6031e1ecc1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6fae8d09a16191e5bcbac6031e1ecc1b/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3cec659897982bcb44cad1518a468821/AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/c8c052663c612530ad7a77df8f226d10/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a1999fe1695f7890eff5b3eb5f63c32f/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/5ef7346a4099ff63d8337141006d5446/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/f155bb123b7d51a07f5f920109fceb52/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/48d52283117b48dcd2f48c5f989c98e2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3a18770500ecd64d9976949e4e016392/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6d8bf1b836cbe67f6fdcf00739571a3b/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2633d2cf8030a96164c7b93a22c139bb/AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /home/harsh/.gradle/caches/transforms-2/files-2.1/25f37334aea1fc943dd25ece96c738db/AndroidManifest.xml:39:22-90
