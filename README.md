@@ -77,6 +77,34 @@ Run again this re-link commands from the terminal.
 <h5>react-native unlink react-native-firebase
 react-native link react-native-firebase</h5>
 
+<h2>Payload type </h2>
+<br><br>
+{"to":"c0lGGsrCHGw:APA91bHacOodIzfcDq7TM8_uW6WYLVeneDgB7ReWQ4krvGEH_TcPhD0yvTz4yGcLtwp5TSJr4ZApMNS6GESU8u5vpHdxj_7XV-pGfT8n7Frt3vqyg1jz1hllgvVpBv8Te627qDFBkVLc","notification":{"title":"Working Good","body":"ellll"},"priority":"high"}
+
+{
+ "data": {
+  "body": "here is body",
+  "title": "Title"
+ },
+"notification": {
+  "body": "here is body",
+  "title": "Title",
+  "click_action": "YOUR_ACTION"
+ },
+ "to": "c0lGGsrCHGw:APA91bHacOodIzfcDq7TM8_uW6WYLVeneDgB7ReWQ4krvGEH_TcPhD0yvTz4yGcLtwp5TSJr4ZApMNS6GESU8u5vpHdxj_7XV-pGfT8n7Frt3vqyg1jz1hllgvVpBv8Te627qDFBkVLc"
+"priority": "high"
+}
+
+{
+  "data":{
+    "title": "hello",
+    "body": "this is body"
+  },
+  "to": "c0lGGsrCHGw:APA91bHacOodIzfcDq7TM8_uW6WYLVeneDgB7ReWQ4krvGEH_TcPhD0yvTz4yGcLtwp5TSJr4ZApMNS6GESU8u5vpHdxj_7XV-pGfT8n7Frt3vqyg1jz1hllgvVpBv8Te627qDFBkVLc"
+}
+<br><br>
+
+
 
 <img src="https://github.com/chaudharybharat/Firebasepush_react_native/blob/master/screen_1.jpg">
 <img src="https://github.com/chaudharybharat/Firebasepush_react_native/blob/master/screen_3.jpg">
