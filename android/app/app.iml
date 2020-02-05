@@ -162,5 +162,7 @@
     <orderEntry type="library" name="Gradle: org.webkit:android-jsc:r245459@aar" level="project" />
     <orderEntry type="module" module-name="react-native-firebase" />
     <orderEntry type="module" module-name="react-native-push-notification" />
+    <orderEntry type="module" module-name="react-native-firebase" />
+    <orderEntry type="module" module-name="react-native-push-notification" />
   </component>
 </module>

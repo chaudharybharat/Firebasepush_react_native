@@ -322,6 +322,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="default_notification_channel_id">com.firebasepush</string>
     <string name="default_web_client_id" translatable="false">952594071382-v17ampv3e47sd883unb8gq3rmjd5p2jr.apps.googleusercontent.com</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="firebase_database_url" translatable="false">https://test-b7001.firebaseio.com</string>

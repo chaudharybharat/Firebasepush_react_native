@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
 MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-push-notification] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:2:1-13:12
@@ -18,6 +18,7 @@ MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/harsh/.gradl
 MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/e6d4d1128d966c2d011f024ef103ad1b/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:17:1-29:12
 MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/83e989e120236f40145d4925888b3e32/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/harsh/.gradle/caches/transforms-2/files-2.1/794a3a3998f2ac4f245341a9a37eb568/AndroidManifest.xml:17:1-22:12
@@ -78,13 +79,13 @@ INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debu
 		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
 		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:1-54:12
 		INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -117,9 +118,9 @@ ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/An
 	android:name
 		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:7:22-63
 application
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
-MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
-MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-31:19
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-52:19
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-52:19
+MERGED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:8:5-52:19
 MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
 MERGED from [:react-native-firebase] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/harsh/.gradle/caches/transforms-2/files-2.1/8c7a6418ec48156ff36aa1a4906d456b/AndroidManifest.xml:11:5-20
@@ -197,39 +198,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/harsh
 		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:9:7-38
 		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:9:7-38
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:15:9-19:19
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:22:8-26:19
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:15:18-91
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:22:17-90
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:16:13-18:29
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:23:13-25:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:17:17-78
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:24:17-78
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:17:25-75
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:24:25-75
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:9-31:13
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:18-92
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:28:5-30:21
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:29:7-69
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:29:15-67
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:32:5-100
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:32:14-97
 activity#com.firebasepush.MainActivity
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:20:7-29:18
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:33:7-42:18
 	android:label
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:35:9-41
 	android:windowSoftInputMode
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:24:9-51
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:37:9-51
 	android:configChanges
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:23:9-79
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:36:9-79
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:21:9-37
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:34:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:25:9-28:25
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:38:9-41:25
 action#android.intent.action.MAIN
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:26:13-65
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:39:13-65
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:26:21-62
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:39:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:13-73
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:27:23-70
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:40:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:30:7-84
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:43:7-84
 	android:name
-		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:30:17-81
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:43:17-81
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:44:10-46:54
+	android:resource
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:45:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:49:10-51:54
+	android:resource
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:51:13-51
+	android:name
+		ADDED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml:50:13-84
 uses-sdk
 INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/harsh/Documents/react_demo/firebasePush/android/app/src/main/AndroidManifest.xml
@@ -260,6 +287,8 @@ MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.grad
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/harsh/.gradle/caches/transforms-2/files-2.1/915ee7b27fac30784a6f562ca3401b54/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /home/harsh/Documents/react_demo/firebasePush/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/435d5e9ee9c8e324f230feafb7eb9e73/AndroidManifest.xml:20:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/83e989e120236f40145d4925888b3e32/AndroidManifest.xml:20:5-43

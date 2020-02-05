@@ -188,6 +188,7 @@ dependencies {
     implementation "com.google.firebase:firebase-core:17.0.1"
     implementation "com.google.firebase:firebase-messaging:19.0.1"
 
+
     if (enableHermes) {
         def hermesPath = "../../node_modules/hermes-engine/android/";
         debugImplementation files(hermesPath + "hermes-debug.aar")

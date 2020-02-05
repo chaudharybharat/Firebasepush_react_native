@@ -18,6 +18,8 @@ import com.firebasepush.R;
 import io.invertase.firebase.RNFirebasePackage;
 // react-native-push-notification
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+// react-native-sound
+import com.zmxv.RNSound.RNSoundPackage;
 
 public class PackageList {
   private Application application;
@@ -64,7 +66,8 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new RNFirebasePackage(),
-      new ReactNativePushNotificationPackage()
+      new ReactNativePushNotificationPackage(),
+      new RNSoundPackage()
     ));
   }
 }

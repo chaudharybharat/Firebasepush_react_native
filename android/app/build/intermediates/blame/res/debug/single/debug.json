@@ -556,6 +556,10 @@
         "source": "/home/harsh/.gradle/caches/transforms-2/files-2.1/a303bca8e7527d1faa3c3b54c3f0dde7/res/layout-v16/notification_template_custom_big.xml"
     },
     {
+        "merged": "/home/harsh/Documents/react_demo/firebasePush/android/app/build/intermediates/res/merged/debug/raw_ring.mp3.flat",
+        "source": "/home/harsh/Documents/react_demo/firebasePush/android/app/src/main/res/raw/ring.mp3"
+    },
+    {
         "merged": "/home/harsh/Documents/react_demo/firebasePush/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "/home/harsh/.gradle/caches/transforms-2/files-2.1/263a6534ebab3255a71ecf0925e19ac1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },

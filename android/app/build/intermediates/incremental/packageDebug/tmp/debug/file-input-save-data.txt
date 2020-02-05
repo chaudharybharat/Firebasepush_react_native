@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Feb 04 18:47:56 IST 2020
+#Tue Feb 04 21:23:26 IST 2020
 64.base=/home/harsh/Documents/react_demo/firebasePush/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 64.baseType=DIRECTORY
 33.base=/home/harsh/Documents/react_demo/firebasePush/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
