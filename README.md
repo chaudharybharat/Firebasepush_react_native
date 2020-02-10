@@ -29,7 +29,7 @@ android folder androidManifest file add this code
 =>Add audio file in android/app/src/main/res/raw/
  if your director inside not exists raw folder it create and paste audio in raw folder and rename audiofile ring
 
-when you want push that time pass payload below formate same like
+when you want push that time pass payload below formate same so you got both app background and forground
 <br>
 {<br>
   "data":{<br>
