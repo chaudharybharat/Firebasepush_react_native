@@ -30,11 +30,11 @@ android folder androidManifest file add this code
  if your director inside not exists raw folder it create and paste audio in raw folder and rename audiofile ring
 
 when you want push that time pass payload below formate same like
-
-{
-  "data":{
-    "title": "hello",
-    "body": "this is body"
-  },
-  "to": "c0lGGsrCHGw:APA91bHacOodIzfcDq7TM8_uW6WYLVeneDgB7ReWQ4krvGEH_TcPhD0yvTz4yGcLtwp5TSJr4ZApMNS6GESU8u5vpHdxj_7XV-pGfT8n7Frt3vqyg1jz1hllgvVpBv8Te627qDFBkVLc"
-}
+<br>
+{<br>
+  "data":{<br>
+    "title": "hello",<br>
+    "body": "this is body"<br>
+  },<br>
+  "to": "c0lGGsrCHGw:APA91bHacOodIzfcDq7TM8_uW6WYLVeneDgB7ReWQ4krvGEH_TcPhD0yvTz4yGcLtwp5TSJr4ZApMNS6GESU8u5vpHdxj_7XV-pGfT8n7Frt3vqyg1jz1hllgvVpBv8Te627qDFBkVLc"<br>
+}<br>
